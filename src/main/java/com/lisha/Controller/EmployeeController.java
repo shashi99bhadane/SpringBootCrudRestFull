@@ -1,5 +1,5 @@
 package com.lisha.Controller;
 
-public class Employee {
+public class EmployeeController {
 
 }
